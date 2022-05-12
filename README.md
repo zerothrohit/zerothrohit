@@ -10,11 +10,11 @@
   <h6 align="center">have fun & try not to break anything</h6>
 </p>
 <br>
-<p align='center'>
+<div align="center">
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-<div align="center">
+
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
