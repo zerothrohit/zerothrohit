@@ -14,7 +14,7 @@
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 
 <!-- display the social media buttons in your README -->
-
+<div align="center">
 [![alt text][1.1]][1]
 [![alt text][2.1]][2]
 [![alt text][3.1]][3]
@@ -52,7 +52,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zerothrohit&layout=compact&theme=dark)
 
-<div align="center">
+<!-- <div align="center"> -->
   <img src="https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51cc5933d368febc351897_footer-img.svg">
 </div>
 
