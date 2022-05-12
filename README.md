@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @zerothwrath aka Rohit Wahwal
-- 👀 I’m interested in making web applications
+- 👋 Hi, I’m @zerothrohit aka Rohit Wahwal
+- 👀 I’m interested in developing web applications
 - 🌱 I’m currently learning data science using python
 - 📫 How to reach me- Email: zeroth.rohit@gmail.com
 
