@@ -34,9 +34,9 @@
 <!-- links to your social media accounts -->
 <!-- update these accordingly -->
 
-[1]: https://twitter.com/mohnish_landge
-[2]: https://www.linkedin.com/in/mohnishlandge/
-[3]: https://www.instagram.com/mohnish.landge/
+[1]: https://twitter.com/rohitwahwal
+[2]: https://www.linkedin.com/in/rohit-wahwal/
+[3]: https://www.instagram.com/___rohitt/
 
 <!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
 </p>
