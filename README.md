@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/zerothrohit/zerothwrath/blob/main/assets/name_transition-1.gif" style="width: 80%" />
+</p>
+
 - 👋 Hi, I’m @zerothrohit aka Rohit Wahwal
 - 👀 I’m interested in developing web applications
 - 🌱 I’m currently learning data science using python
@@ -6,7 +10,7 @@
 
 
 <p align="center">
-<img src="https://github.com/zerothrohit/zerothwrath/blob/1c83ad55d2fba4d53f571f55b94a3e61352cab90/assets/kasa-kay.gif" style="width: 40%" />
+<!-- <img src="https://github.com/zerothrohit/zerothwrath/blob/1c83ad55d2fba4d53f571f55b94a3e61352cab90/assets/kasa-kay.gif" style="width: 40%" /> -->
 <!-- <img src="https://github.com/zerothrohit/zerothwrath/blob/179e26f7d7cdd2571a647b2267bded0f7c5e2ade/assets/rohit.gif" style="width: 40%" /> -->
 
   <h5 align="center">Welcome to My GitHub</h5>
